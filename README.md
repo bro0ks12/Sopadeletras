@@ -1,2 +1,2 @@
 # Sopadeletras
-Sopa De Letras in Java
+ALphabet Soup in Java.
